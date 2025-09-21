@@ -22,7 +22,7 @@ Designed to be clean, mobile-friendly, and easy to customize.
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot_2.png" alt="Homepage Screenshot 2" width="800"/>
+  <img src="screenshots/screenshot_2.png" alt="Homepage Screenshot 2" width="500"/>
 </p>
 
 <p align="center">
