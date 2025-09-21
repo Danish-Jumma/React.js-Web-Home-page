@@ -1,12 +1,39 @@
-# React + Vite
+# 🌐 React Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **React + Tailwind CSS** homepage with navigation, hero section, content sections, cards, and footer.  
+Designed to be clean, mobile-friendly, and easy to customize.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- ✅ Responsive Navbar with login/signup buttons  
+- ✅ Hero section with image and CTA button  
+- ✅ Content + Image section (flex with responsiveness)  
+- ✅ Card grid with hover effects  
+- ✅ Modern Footer with quick links & social icons  
+- ✅ Built with **React + Tailwind CSS**  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot_1.png" alt="Homepage Screenshot 1" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_2.png" alt="Homepage Screenshot 2" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_3.png" alt="Homepage Screenshot 3" width="400"/>
+</p>
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
